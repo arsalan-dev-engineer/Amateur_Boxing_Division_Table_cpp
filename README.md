@@ -17,11 +17,11 @@ https://en.wikipedia.org/wiki/Weight_class_(boxing)
 
 <img src="Pictures/screenshot1.png">
 
-^ Screenshot above shows my name, my gender and my weight class
+^ Screenshot above shows my name, my gender and my weight class.
 
 <img src="Pictures/screenshot2.png">
 
-^ Screenshot above shows the program restarting after entering "y" string to rerun program
+^ Screenshot above shows the program restarting after entering "y" string to run the program again.
 
 <img src="Pictures/screenshot3.png">
 
