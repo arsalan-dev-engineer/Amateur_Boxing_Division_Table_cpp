@@ -3,9 +3,7 @@
 
 You can use this program to find out what weight class you are in, the classes in this program are only for Amateur boxers.
 
------
-
-# Table
+## Table
 
 <img src="Pictures/division_table.png" width="550" height="350">
 
@@ -14,7 +12,7 @@ https://en.wikipedia.org/wiki/Weight_class_(boxing)
 
 -----
 
-# Screenshots of the program
+## Screenshots of the program
 
 <img src="Pictures/screenshot1.png">
 
